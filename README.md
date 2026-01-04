@@ -1,8 +1,4 @@
 # NLP Module – Emergency Call Analysis
-
-**Author:** Prakash Naik  
-**Role:** NLP Engineer (Member-2)
-
 ## Overview
 This module processes transcribed emergency call text and extracts:
 - Emergency type
